@@ -1,0 +1,36 @@
+h1{
+
+    /* background-color: orange; */
+/* 
+    color: orange;
+    font-style: italic; */
+}
+
+h2{
+/* 
+    background-color: white; */
+
+    /* color: black;
+    font-style: oblique; */
+}
+
+h3{
+
+    /* background-color: green; */
+/* 
+    color: green;
+    font-style: italic; */
+
+}
+
+body{
+
+    background-image: url(Flag_of_India.svg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+  
+}
+
+
+
